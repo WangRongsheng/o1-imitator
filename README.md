@@ -14,3 +14,7 @@
 2. https://github.com/GAIR-NLP/O1-Journey
 3. https://github.com/marlaman/show-me
 4. https://github.com/bklieger-groq/g1
+
+### Paper
+
+1. https://arxiv.org/abs/2410.02884
