@@ -18,4 +18,5 @@
 
 ### Paper
 
-1. https://arxiv.org/abs/2410.02884
+1. LLaMA-Berry: https://arxiv.org/abs/2410.02884
+2. MCTS-DPO: https://arxiv.org/abs/2405.00451
