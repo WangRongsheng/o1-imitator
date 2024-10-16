@@ -15,6 +15,7 @@
 3. https://github.com/marlaman/show-me
 4. https://github.com/bklieger-groq/g1
 5. https://github.com/Jaimboh/Llamaberry-Chain-of-Thought-Reasoning-in-AI
+6. https://github.com/pseudotensor/open-strawberry
 
 ### Paper
 
