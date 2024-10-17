@@ -7,6 +7,7 @@
 1. https://github.com/atfortes/Awesome-LLM-Reasoning
 2. https://github.com/hijkzzz/Awesome-LLM-Strawberry
 3. https://github.com/wjn1996/Awesome-LLM-Reasoning-Openai-o1-Survey
+4. https://github.com/srush/awesome-o1
 
 ### Project
 
