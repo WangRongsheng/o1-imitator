@@ -18,6 +18,7 @@
 5. https://github.com/Jaimboh/Llamaberry-Chain-of-Thought-Reasoning-in-AI
 6. https://github.com/pseudotensor/open-strawberry
 7. https://huggingface.co/collections/peakji/steiner-preview-6712c6987110ce932a44e9a6
+8. https://github.com/SimpleBerry/LLaMA-O1
 
 ### Paper
 
