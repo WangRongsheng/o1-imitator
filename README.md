@@ -27,6 +27,7 @@
 3. OpenR: https://github.com/openreasoner/openr
 4. https://arxiv.org/abs/2410.02725
 5. LLaVA-o1: https://arxiv.org/abs/2411.10440
+6. Marco-o1: https://arxiv.org/abs/2411.14405
 
 ## Benchamark
 
