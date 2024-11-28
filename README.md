@@ -20,6 +20,7 @@
 7. https://huggingface.co/collections/peakji/steiner-preview-6712c6987110ce932a44e9a6
 8. https://github.com/SimpleBerry/LLaMA-O1
 9. https://huggingface.co/collections/Skywork/skywork-o1-open-67453df58e12f6c3934738d0
+10. https://huggingface.co/collections/Qwen/qwq-674762b79b75eac01735070a
 
 ### Paper
 
