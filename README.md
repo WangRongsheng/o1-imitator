@@ -22,6 +22,7 @@
 9. https://huggingface.co/collections/Skywork/skywork-o1-open-67453df58e12f6c3934738d0
 10. https://huggingface.co/collections/Qwen/qwq-674762b79b75eac01735070a
 11. https://github.com/SkyworkAI/skywork-o1-prm-inference
+12. https://github.com/RifleZhang/LLaVA-Reasoner-DPO
 
 ### Paper
 
