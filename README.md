@@ -23,6 +23,8 @@
 10. https://huggingface.co/collections/Qwen/qwq-674762b79b75eac01735070a
 11. https://github.com/SkyworkAI/skywork-o1-prm-inference
 12. https://github.com/RifleZhang/LLaVA-Reasoner-DPO
+13. https://github.com/ADaM-BJTU
+14. https://github.com/ADaM-BJTU/OpenRFT `ReFT`
 
 ### Paper
 
