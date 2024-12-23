@@ -25,6 +25,7 @@
 12. https://github.com/RifleZhang/LLaVA-Reasoner-DPO
 13. https://github.com/ADaM-BJTU
 14. https://github.com/ADaM-BJTU/OpenRFT `ReFT`
+15. https://github.com/RUCAIBox/Slow_Thinking_with_LLMs
 
 ### Paper
 
