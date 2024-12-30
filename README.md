@@ -37,6 +37,7 @@
 5. LLaVA-o1: https://arxiv.org/abs/2411.10440
 6. Marco-o1: https://arxiv.org/abs/2411.14405
 7. OpenAI o1 report: https://openai.com/index/deliberative-alignment [Paper link](https://assets.ctfassets.net/kftzwdyauwt9/4pNYAZteAQXWtloDdANQ7L/0aedc43a8f2d1e5c71c5e114d287593f/OpenAI_Deliberative-Alignment-Reasoning-Enables-Safer_Language-Models_122024_3.pdf)
+8. DRT-o1: https://github.com/krystalan/DRT-o1
 
 ## Benchamark
 
