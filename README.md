@@ -39,6 +39,7 @@
 9. Virgo：https://arxiv.org/abs/2501.01904
 10. HuatuoGPT-o1：https://arxiv.org/abs/2412.18925
 11. o1 roadmap：https://arxiv.org/abs/2412.14135
+12. Mulberry：https://arxiv.org/abs/2412.18319
 
 ## Benchamark
 
