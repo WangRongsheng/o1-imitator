@@ -40,6 +40,7 @@
 10. HuatuoGPT-o1：https://arxiv.org/abs/2412.18925
 11. o1 roadmap：https://arxiv.org/abs/2412.14135
 12. Mulberry：https://arxiv.org/abs/2412.18319
+13. https://arxiv.org/abs/2412.09413
 
 ## Benchamark
 
