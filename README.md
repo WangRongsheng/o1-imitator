@@ -25,6 +25,7 @@
 13. https://github.com/ADaM-BJTU
 14. https://github.com/ADaM-BJTU/OpenRFT `ReFT`
 15. https://github.com/RUCAIBox/Slow_Thinking_with_LLMs
+16. https://github.com/richards199999/Thinking-Claude
 
 ### Paper
 
