@@ -38,6 +38,7 @@
 8. DRT-o1: https://github.com/krystalan/DRT-o1
 9. Virgo：https://arxiv.org/abs/2501.01904
 10. HuatuoGPT-o1：https://arxiv.org/abs/2412.18925
+11. o1 roadmap：https://arxiv.org/abs/2412.14135
 
 ## Benchamark
 
