@@ -43,6 +43,7 @@
 12. Mulberry：https://arxiv.org/abs/2412.18319
 13. https://arxiv.org/abs/2412.09413
 14. https://arxiv.org/abs/2501.02497
+15. Search-o1:https://arxiv.org/abs/2501.05366v1
 
 ## Benchamark
 
