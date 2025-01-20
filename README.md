@@ -26,6 +26,9 @@
 14. https://github.com/ADaM-BJTU/OpenRFT `ReFT`
 15. https://github.com/RUCAIBox/Slow_Thinking_with_LLMs
 16. https://github.com/richards199999/Thinking-Claude
+17. https://huggingface.co/AGI-0/Art-v0-3B
+18. https://huggingface.co/deepseek-ai/DeepSeek-R1
+19. https://huggingface.co/deepseek-ai/DeepSeek-R1-Zero
 
 ### Paper
 
