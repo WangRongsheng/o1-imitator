@@ -50,11 +50,3 @@
 13. https://arxiv.org/abs/2412.09413
 14. https://arxiv.org/abs/2501.02497
 15. Search-o1:https://arxiv.org/abs/2501.05366v1
-
-## Benchamark
-
-1. https://github.com/WildEval/ZeroEval
-
-## Dataset
-
-1. https://huggingface.co/datasets/O1-OPEN/OpenO1-SFT
