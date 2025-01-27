@@ -31,6 +31,7 @@
 19. https://huggingface.co/deepseek-ai/DeepSeek-R1-Zero
 20. https://github.com/huggingface/open-r1
 21. https://github.com/hkust-nlp/simpleRL-reason
+22. https://github.com/Jiayi-Pan/TinyZero
 
 ### Paper
 
