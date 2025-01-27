@@ -32,6 +32,7 @@
 20. https://github.com/huggingface/open-r1
 21. https://github.com/hkust-nlp/simpleRL-reason
 22. https://github.com/Jiayi-Pan/TinyZero
+23. https://github.com/baichuan-inc/Baichuan-M1-14B
 
 ### Paper
 
