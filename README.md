@@ -7,6 +7,7 @@
 3. https://github.com/wjn1996/Awesome-LLM-Reasoning-Openai-o1-Survey
 4. https://github.com/srush/awesome-o1
 5. https://github.com/open-thought/system-2-research
+6. https://github.com/ninehills/blog/issues/121
 
 ### Project
 
