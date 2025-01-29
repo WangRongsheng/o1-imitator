@@ -34,6 +34,7 @@
 22. https://github.com/Jiayi-Pan/TinyZero
 23. https://github.com/baichuan-inc/Baichuan-M1-14B
 24. https://github.com/EvolvingLMMs-Lab/open-r1-multimodal
+25. https://github.com/open-thoughts/open-thoughts
 
 ### Paper
 
