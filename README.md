@@ -37,6 +37,9 @@
 24. https://github.com/EvolvingLMMs-Lab/open-r1-multimodal
 25. https://github.com/open-thoughts/open-thoughts
 26. Mini-R1: https://www.philschmid.de/mini-deepseek-r1
+27. https://github.com/simplescaling/s1
+28. https://github.com/Deep-Agent/R1-V
+29. https://github.com/StarRing2022/R1-Nature
 
 ### Paper
 
