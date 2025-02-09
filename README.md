@@ -1,3 +1,5 @@
+> [!NOTE]
+> 
 > 相关资源已同步整合到：https://github.com/WangRongsheng/awesome-LLM-resourses
 
 # o1-imitator
