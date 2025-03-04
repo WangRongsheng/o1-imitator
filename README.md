@@ -1,6 +1,6 @@
 > [!NOTE]
 > 
-> 相关资源已同步整合到：https://github.com/WangRongsheng/awesome-LLM-resourses
+> 相关资源已同步整合到：https://github.com/WangRongsheng/awesome-LLM-resourses?tab=readme-ov-file#Open-o1
 
 # o1-imitator
 
